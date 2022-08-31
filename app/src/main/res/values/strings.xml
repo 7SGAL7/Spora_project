@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Corrutina</string>
+    <string name="welcome">Bienvenido</string>
+    <string name ="add_id">Ingresa tu ID</string>
+    <string name ="username">Usuario</string>
+    <string name ="password">Contraseña</string>
+    <string name ="add_rute">Ingresa una ruta</string>
+    <string name ="login">Entrar</string>
+    <string name="internet_connection">Para iniciar sesión, necesitas estar conectado a internet.</string>
+
+</resources>
