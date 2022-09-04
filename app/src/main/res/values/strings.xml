@@ -7,5 +7,14 @@
     <string name ="add_rute">Ingresa una ruta</string>
     <string name ="login">Entrar</string>
     <string name="internet_connection">Para iniciar sesión, necesitas estar conectado a internet.</string>
+    <string name="register">Registrar</string>
+    <string name = "name">Nombre</string>
+    <string name="m_last_name">Apellido materno</string>
+    <string name="p_last_name">Apellido paterno</string>
+    <string name="date_of_birth">Fecha de nacimiento</string>
+    <string name="email">Correo</string>
+    <string name="address">Dirección</string>
+    <string name="phone">Teléfono</string>
+
 
 </resources>
